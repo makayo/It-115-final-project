@@ -1,4 +1,4 @@
-# README
+# README.md
 
 ### Final Project
 <p> This is my IT 115-Intro to Software Development final review project on what we had learned throughout the quarter. </p>
